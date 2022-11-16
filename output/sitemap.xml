@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://imtai.dev/</loc>
-  <lastmod>2022-11-16T21:39:00Z</lastmod>
+  <lastmod>2022-11-16T21:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://imtai.dev/2022/</loc>
+  <lastmod>2022-11-16T21:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://imtai.dev/archive.html</loc>
-  <lastmod>2022-11-16T21:39:00Z</lastmod>
+  <lastmod>2022-11-16T21:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://imtai.dev/categories/</loc>
@@ -24,5 +28,9 @@
  <url>
   <loc>https://imtai.dev/listings/</loc>
   <lastmod>2022-11-16T21:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://imtai.dev/posts/test-post/</loc>
+  <lastmod>2022-11-16T21:41:00Z</lastmod>
  </url>
 </urlset>
